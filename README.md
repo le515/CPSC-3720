@@ -28,7 +28,7 @@
 ### :man_technologist: About Me :
 Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :school: Student at Clemson University
-
+- :class: This is an edit from Bhargav Pappu
 - :book: Majoring in Computer Science and Minoring in Mathematical Science
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-le-01943324b/)
